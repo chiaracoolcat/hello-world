@@ -1,2 +1,4 @@
 # hello-world
-just another repository 
+HI MY NAME IS CHIARA
+
+I GO TO DURHAM UNIVERISTY AND I STUDY BIOMEDICAL SCIENCES 
